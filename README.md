@@ -1,2 +1,5 @@
-# github-Final
-Final lab exam
+# My Profile
+## About Me
+- nickname: AungAung
+- Major: CS
+- Year: 1
